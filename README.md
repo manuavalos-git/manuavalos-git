@@ -9,6 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manuavalos-git](https://github.com/manuavalos-git)
 
+- ⛓️ links to some of my projects 
+  - [https://pomodoroapp-drab.vercel.app/](https://pomodoroapp-drab.vercel.app/) 
+  - [https://phonebook-app.up.railway.app/](https://phonebook-app.up.railway.app/)
+  - [https://almuerziapp.up.railway.app/](https://almuerziapp.up.railway.app/)
+  - [https://buquealtoque.up.railway.app/](https://buquealtoque.up.railway.app/)
+
 - 📫 How to reach me **avaloslautaro10@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lautaroavalos/](https://www.linkedin.com/in/lautaroavalos/)
