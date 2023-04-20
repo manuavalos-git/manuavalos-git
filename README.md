@@ -10,10 +10,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/manuavalos-git](https://github.com/manuavalos-git)
 
 - ⛓️ links to some of my projects 
+  - [https://abm-empleados.vercel.app/](https://abm-empleados.vercel.app/)
   - [https://pomodoroapp-drab.vercel.app/](https://pomodoroapp-drab.vercel.app/) 
-  - [https://phonebook-app.up.railway.app/](https://phonebook-app.up.railway.app/)
-  - [https://almuerziapp.up.railway.app/](https://almuerziapp.up.railway.app/)
-  - [https://buquealtoque.up.railway.app/](https://buquealtoque.up.railway.app/)
+  - [https://phonebook-frontend-eta.vercel.app/](https://phonebook-frontend-eta.vercel.app/)
+  - [https://almuerzi-app-sigma.vercel.app/](https://almuerzi-app-sigma.vercel.app/)
+  - [https://buquealtoque.vercel.app/](https://buquealtoque.vercel.app/)
 
 - 📫 How to reach me **avaloslautaro10@gmail.com**
 
